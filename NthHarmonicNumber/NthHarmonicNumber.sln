@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NthHarmonicNumber", "NthHarmonicNumber\NthHarmonicNumber.csproj", "{7C7994DF-9991-4117-B8BC-57B54E0E4585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C7994DF-9991-4117-B8BC-57B54E0E4585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7994DF-9991-4117-B8BC-57B54E0E4585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7994DF-9991-4117-B8BC-57B54E0E4585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7994DF-9991-4117-B8BC-57B54E0E4585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D47DA07A-339A-4CBE-BA12-0749585EC7D4}
+	EndGlobalSection
+EndGlobal

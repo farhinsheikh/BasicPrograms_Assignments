@@ -1,0 +1,13 @@
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.exe
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.deps.json
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.runtimeconfig.json
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.runtimeconfig.dev.json
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.dll
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\bin\Debug\netcoreapp3.1\PowerOfTwo.pdb
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.csprojAssemblyReference.cache
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.AssemblyInfo.cs
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.dll
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.pdb
+C:\Users\abdul khayum\source\repos\PowerOfTwo\PowerOfTwo\obj\Debug\netcoreapp3.1\PowerOfTwo.genruntimeconfig.cache

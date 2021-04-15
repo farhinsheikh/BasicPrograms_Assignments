@@ -1,0 +1,13 @@
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.exe
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.deps.json
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.runtimeconfig.json
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.runtimeconfig.dev.json
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.dll
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\bin\Debug\netcoreapp3.1\LeapYearChecker.pdb
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.csprojAssemblyReference.cache
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.AssemblyInfoInputs.cache
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.AssemblyInfo.cs
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.csproj.CoreCompileInputs.cache
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.dll
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.pdb
+C:\Users\abdul khayum\source\repos\LeapYearChecker\LeapYearChecker\obj\Debug\netcoreapp3.1\LeapYearChecker.genruntimeconfig.cache

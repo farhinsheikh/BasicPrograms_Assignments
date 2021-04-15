@@ -1,0 +1,13 @@
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\bin\Debug\netcoreapp3.1\GamblingGame.exe
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\bin\Debug\netcoreapp3.1\GamblingGame.deps.json
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\bin\Debug\netcoreapp3.1\GamblingGame.runtimeconfig.json
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\bin\Debug\netcoreapp3.1\GamblingGame.runtimeconfig.dev.json
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\bin\Debug\netcoreapp3.1\GamblingGame.dll
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\bin\Debug\netcoreapp3.1\GamblingGame.pdb
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\obj\Debug\netcoreapp3.1\GamblingGame.csprojAssemblyReference.cache
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\obj\Debug\netcoreapp3.1\GamblingGame.AssemblyInfoInputs.cache
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\obj\Debug\netcoreapp3.1\GamblingGame.AssemblyInfo.cs
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\obj\Debug\netcoreapp3.1\GamblingGame.csproj.CoreCompileInputs.cache
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\obj\Debug\netcoreapp3.1\GamblingGame.dll
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\obj\Debug\netcoreapp3.1\GamblingGame.pdb
+C:\Users\abdul khayum\source\repos\GamblingGame\GamblingGame\obj\Debug\netcoreapp3.1\GamblingGame.genruntimeconfig.cache

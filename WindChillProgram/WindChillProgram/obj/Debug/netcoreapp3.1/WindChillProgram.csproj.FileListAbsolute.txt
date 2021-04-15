@@ -1,0 +1,13 @@
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\bin\Debug\netcoreapp3.1\WindChillProgram.exe
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\bin\Debug\netcoreapp3.1\WindChillProgram.deps.json
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\bin\Debug\netcoreapp3.1\WindChillProgram.runtimeconfig.json
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\bin\Debug\netcoreapp3.1\WindChillProgram.runtimeconfig.dev.json
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\bin\Debug\netcoreapp3.1\WindChillProgram.dll
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\bin\Debug\netcoreapp3.1\WindChillProgram.pdb
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\obj\Debug\netcoreapp3.1\WindChillProgram.csprojAssemblyReference.cache
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\obj\Debug\netcoreapp3.1\WindChillProgram.AssemblyInfoInputs.cache
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\obj\Debug\netcoreapp3.1\WindChillProgram.AssemblyInfo.cs
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\obj\Debug\netcoreapp3.1\WindChillProgram.csproj.CoreCompileInputs.cache
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\obj\Debug\netcoreapp3.1\WindChillProgram.dll
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\obj\Debug\netcoreapp3.1\WindChillProgram.pdb
+C:\Users\abdul khayum\source\repos\WindChillProgram\WindChillProgram\obj\Debug\netcoreapp3.1\WindChillProgram.genruntimeconfig.cache

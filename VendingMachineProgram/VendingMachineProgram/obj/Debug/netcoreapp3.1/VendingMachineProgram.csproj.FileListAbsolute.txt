@@ -1,0 +1,13 @@
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\bin\Debug\netcoreapp3.1\VendingMachineProgram.exe
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\bin\Debug\netcoreapp3.1\VendingMachineProgram.deps.json
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\bin\Debug\netcoreapp3.1\VendingMachineProgram.runtimeconfig.json
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\bin\Debug\netcoreapp3.1\VendingMachineProgram.runtimeconfig.dev.json
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\bin\Debug\netcoreapp3.1\VendingMachineProgram.dll
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\bin\Debug\netcoreapp3.1\VendingMachineProgram.pdb
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\obj\Debug\netcoreapp3.1\VendingMachineProgram.csprojAssemblyReference.cache
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\obj\Debug\netcoreapp3.1\VendingMachineProgram.AssemblyInfoInputs.cache
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\obj\Debug\netcoreapp3.1\VendingMachineProgram.AssemblyInfo.cs
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\obj\Debug\netcoreapp3.1\VendingMachineProgram.csproj.CoreCompileInputs.cache
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\obj\Debug\netcoreapp3.1\VendingMachineProgram.dll
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\obj\Debug\netcoreapp3.1\VendingMachineProgram.pdb
+C:\Users\abdul khayum\source\repos\VendingMachineProgram\VendingMachineProgram\obj\Debug\netcoreapp3.1\VendingMachineProgram.genruntimeconfig.cache

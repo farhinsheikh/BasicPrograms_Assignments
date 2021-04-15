@@ -1,0 +1,13 @@
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\bin\Debug\netcoreapp3.1\Triplets.exe
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\bin\Debug\netcoreapp3.1\Triplets.deps.json
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\bin\Debug\netcoreapp3.1\Triplets.runtimeconfig.json
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\bin\Debug\netcoreapp3.1\Triplets.runtimeconfig.dev.json
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\bin\Debug\netcoreapp3.1\Triplets.dll
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\bin\Debug\netcoreapp3.1\Triplets.pdb
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\obj\Debug\netcoreapp3.1\Triplets.csprojAssemblyReference.cache
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\obj\Debug\netcoreapp3.1\Triplets.AssemblyInfoInputs.cache
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\obj\Debug\netcoreapp3.1\Triplets.AssemblyInfo.cs
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\obj\Debug\netcoreapp3.1\Triplets.csproj.CoreCompileInputs.cache
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\obj\Debug\netcoreapp3.1\Triplets.dll
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\obj\Debug\netcoreapp3.1\Triplets.pdb
+C:\Users\abdul khayum\source\repos\Triplets\Triplets\obj\Debug\netcoreapp3.1\Triplets.genruntimeconfig.cache

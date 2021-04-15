@@ -1,0 +1,13 @@
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\obj\Debug\netcoreapp3.1\ReplaceStringProgram.csprojAssemblyReference.cache
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\obj\Debug\netcoreapp3.1\ReplaceStringProgram.AssemblyInfoInputs.cache
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\obj\Debug\netcoreapp3.1\ReplaceStringProgram.AssemblyInfo.cs
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\obj\Debug\netcoreapp3.1\ReplaceStringProgram.csproj.CoreCompileInputs.cache
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\bin\Debug\netcoreapp3.1\ReplaceStringProgram.exe
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\bin\Debug\netcoreapp3.1\ReplaceStringProgram.deps.json
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\bin\Debug\netcoreapp3.1\ReplaceStringProgram.runtimeconfig.json
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\bin\Debug\netcoreapp3.1\ReplaceStringProgram.runtimeconfig.dev.json
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\bin\Debug\netcoreapp3.1\ReplaceStringProgram.dll
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\bin\Debug\netcoreapp3.1\ReplaceStringProgram.pdb
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\obj\Debug\netcoreapp3.1\ReplaceStringProgram.dll
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\obj\Debug\netcoreapp3.1\ReplaceStringProgram.pdb
+C:\Users\abdul khayum\source\repos\ReplaceStringProgram\ReplaceStringProgram\obj\Debug\netcoreapp3.1\ReplaceStringProgram.genruntimeconfig.cache

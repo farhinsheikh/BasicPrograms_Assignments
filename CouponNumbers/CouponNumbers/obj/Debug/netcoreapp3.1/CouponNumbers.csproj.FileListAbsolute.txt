@@ -1,0 +1,12 @@
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.exe
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.deps.json
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.runtimeconfig.json
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.runtimeconfig.dev.json
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.dll
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.pdb
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.AssemblyInfoInputs.cache
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.AssemblyInfo.cs
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.csproj.CoreCompileInputs.cache
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.dll
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.pdb
+C:\Users\abdul khayum\source\repos\CouponNumbers\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.genruntimeconfig.cache

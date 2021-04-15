@@ -1,0 +1,12 @@
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\bin\Debug\netcoreapp3.1\NthHarmonicNumber.exe
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\bin\Debug\netcoreapp3.1\NthHarmonicNumber.deps.json
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\bin\Debug\netcoreapp3.1\NthHarmonicNumber.runtimeconfig.json
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\bin\Debug\netcoreapp3.1\NthHarmonicNumber.runtimeconfig.dev.json
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\bin\Debug\netcoreapp3.1\NthHarmonicNumber.dll
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\bin\Debug\netcoreapp3.1\NthHarmonicNumber.pdb
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\obj\Debug\netcoreapp3.1\NthHarmonicNumber.AssemblyInfoInputs.cache
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\obj\Debug\netcoreapp3.1\NthHarmonicNumber.AssemblyInfo.cs
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\obj\Debug\netcoreapp3.1\NthHarmonicNumber.csproj.CoreCompileInputs.cache
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\obj\Debug\netcoreapp3.1\NthHarmonicNumber.dll
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\obj\Debug\netcoreapp3.1\NthHarmonicNumber.pdb
+C:\Users\abdul khayum\source\repos\NthHarmonicNumber\NthHarmonicNumber\obj\Debug\netcoreapp3.1\NthHarmonicNumber.genruntimeconfig.cache

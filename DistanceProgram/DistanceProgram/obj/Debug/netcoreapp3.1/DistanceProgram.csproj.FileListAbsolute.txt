@@ -1,0 +1,13 @@
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\bin\Debug\netcoreapp3.1\DistanceProgram.exe
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\bin\Debug\netcoreapp3.1\DistanceProgram.deps.json
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\bin\Debug\netcoreapp3.1\DistanceProgram.runtimeconfig.json
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\bin\Debug\netcoreapp3.1\DistanceProgram.runtimeconfig.dev.json
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\bin\Debug\netcoreapp3.1\DistanceProgram.dll
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\bin\Debug\netcoreapp3.1\DistanceProgram.pdb
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\obj\Debug\netcoreapp3.1\DistanceProgram.csprojAssemblyReference.cache
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\obj\Debug\netcoreapp3.1\DistanceProgram.AssemblyInfoInputs.cache
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\obj\Debug\netcoreapp3.1\DistanceProgram.AssemblyInfo.cs
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\obj\Debug\netcoreapp3.1\DistanceProgram.csproj.CoreCompileInputs.cache
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\obj\Debug\netcoreapp3.1\DistanceProgram.dll
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\obj\Debug\netcoreapp3.1\DistanceProgram.pdb
+C:\Users\abdul khayum\source\repos\DistanceProgram\DistanceProgram\obj\Debug\netcoreapp3.1\DistanceProgram.genruntimeconfig.cache
